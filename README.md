@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Shivani.
-- 👀 I’m interested in front-end development and working on cloud platform.
-- 🌱 I’m currently learning javascript.
-- 📫 To contact me you can email me on shivanichoudhary0595@gmail.com .
+✨ Shivani Choudhary – AI/ML | Python Developer | Software Engineer
+👋 Hi there! I'm Shivani, a passionate and adaptable software developer with a growing focus on Machine Learning and Python-based development.
+I bring a strong foundation in data science, front-end engineering, and backend development — and I'm currently building a portfolio of real-world ML applications.
 
 <!---
 Shivani-1305/Shivani-1305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
